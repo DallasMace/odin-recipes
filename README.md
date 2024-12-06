@@ -1,0 +1,1 @@
+This project is intended to be the first project titles "Recipes", as instructed by The Odin Project.
